@@ -7,4 +7,4 @@ git log - use to check the list of all our commit.
 ===============================
 git branch - allow us to list all our branches(the curent branch is marked with an asterix).
 git branch <branch name> - allows us to create new branches in our repository.
-git switch <branch name> - allows us to switch from one branch to another.
+git switch <branch name> - allows us to switch from one branch to another  
